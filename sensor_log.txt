@@ -1,0 +1,2 @@
+INFO: system bootTEMP:   36.5STATUS: OKTEMP: 37.1TEMP:    36.8WARNING: fan speed lowTEMP:  37.0INFO: system idleTEMP:    36.6ERROR: sensor glitchTEMP: 37.2TEMP:   36.5STATUS: OKTEMP: 37.1TEMP:    36.8WARNING: fan speed lowTEMP:  37.0INFO: system idleTEMP:    36.6ERROR: sensor glitchTEMP: 37.2
+TEMP:   36.5STATUS: OKTEMP: 37.1TEMP:    36.8WARNING: fan speed lowTEMP:  37.0INFO: system idleTEMP:    36.6ERROR: sensor glitchTEMP: 37.2
